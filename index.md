@@ -7,7 +7,7 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
-### Week 4 September 24, 2018
+### Week 4 September 25, 2018
 * I submitted my budget.
 
 ### Week 3 September 18, 2018
