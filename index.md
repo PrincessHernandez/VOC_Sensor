@@ -8,7 +8,7 @@ title: VOC Sensor Project Blog
 # CENG317 VOC Sensor Project
 
 ### Week 3 September 18, 2018
-
+* I submitted my [project schedule]().
 
 ### Week 2 September 11, 2018
 * I submitted my [proposal](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProposalContentPrincessRev02.xlsx).
