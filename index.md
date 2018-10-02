@@ -20,7 +20,7 @@ title: VOC Sensor Project Blog
 ![Image of Import Fee Receipt](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Import%20Fee.PNG?raw=true)
 
 ### Week 3 September 18, 2018
-* I submitted my [project schedule]().
+* I submitted my [project schedule](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProjectSchedule.mpp).
 
 ### Week 2 September 11, 2018
 * I submitted my [proposal](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProposalContentPrincessRev02.xlsx).
