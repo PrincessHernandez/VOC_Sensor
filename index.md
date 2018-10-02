@@ -15,7 +15,7 @@ title: VOC Sensor Project Blog
 * I ordered my parts on September 27.
 ![Image of Parts Receipt](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Ordered%20Parts.png?raw=true)
 * I paid for import charges and received my parts on September 28.
-![Image of Import Fee Receipt]()
+![Image of Import Fee Receipt](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Import%20Fee.PNG?raw=true)
 
 ### Week 3 September 18, 2018
 * I submitted my [project schedule]().
