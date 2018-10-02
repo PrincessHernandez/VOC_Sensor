@@ -19,6 +19,7 @@ title: VOC Sensor Project Blog
 
 ### Week 3 September 18, 2018
 * I submitted my [project schedule](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProjectSchedule.mpp).
+![Image of Project Schedule](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProjectSchedule.png?raw=true)
 
 ### Week 2 September 11, 2018
 * I submitted my [proposal](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProposalContentPrincessRev02.xlsx).
