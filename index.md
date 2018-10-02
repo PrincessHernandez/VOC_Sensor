@@ -14,6 +14,7 @@ title: VOC Sensor Project Blog
 * I submitted my [budget](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Budget.xlsx).
 * I ordered my parts on September 27.
 ![Image of Parts Receipt](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Ordered%20Parts.png?raw=true)
+
 * I paid for import charges and received my parts on September 28.
 ![Image of Import Fee Receipt](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Import%20Fee.PNG?raw=true)
 
