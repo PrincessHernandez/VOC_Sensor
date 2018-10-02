@@ -8,7 +8,8 @@ title: VOC Sensor Project Blog
 # CENG317 VOC Sensor Project
 
 ### Week 5 October 2, 2018
-
+* I showed proof of ordered parts.
+* Setting up Raspberry Pi.
 
 ### Week 4 September 25, 2018
 * I submitted my [budget](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Budget.xlsx).
