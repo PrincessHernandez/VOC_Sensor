@@ -11,7 +11,7 @@ title: VOC Sensor Project Blog
 
 
 ### Week 4 September 25, 2018
-* I submitted my budget.
+* I submitted my [budget](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Budget.xlsx).
 * I ordered my parts on September 27.
 ![Image of Parts Receipt](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Ordered%20Parts.png?raw=true)
 * I paid for import charges and received my parts on September 28.
