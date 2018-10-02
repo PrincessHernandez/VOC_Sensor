@@ -7,8 +7,13 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
+### Week 5 October 2, 2018
+
+
 ### Week 4 September 25, 2018
 * I submitted my budget.
+* I ordered my parts on September 27.
+* I paid for import charges and received my parts on September 28.
 
 ### Week 3 September 18, 2018
 * I submitted my [project schedule]().
