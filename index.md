@@ -13,7 +13,7 @@ title: VOC Sensor Project Blog
 ### Week 6 October 9, 2018 - Study Day
 * Soldered my sensor to the header.
 
-![Image of Soldered Sensor]()
+![Image of Soldered Sensor](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/solderedSensor.jpg?raw=true)
 * Worked on Pseudo code assignment.
 
 ### Week 5 October 2, 2018
