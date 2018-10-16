@@ -7,6 +7,13 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
+### Week 7 October 16, 2018
+* Pseudo code assignment due.
+
+### Week 6 October 9, 2018 - Study Day
+* Soldered my sensor to the header.
+* Worked on Pseudo code assignment.
+
 ### Week 5 October 2, 2018
 * I showed proof of ordered parts.
 * Setting up Raspberry Pi.
