@@ -9,6 +9,12 @@ title: VOC Sensor Project Blog
 
 ### Week 8 October 23, 2018 - Milestone
 * I forgot my Raspberry Pi. 
+* Demonstrated wiring on breadboard (borrowed Rasp Pi from Parts Crib).
+
+![Image of Wiring1](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/breadboardSensor(1).PNG?raw=true) ![Image of Wiring2](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/breadboardSensor(2).PNG?raw=true)
+* Used i2cdetect command to detect CCS811 sensor on the pi. The result is the correct address (0x5B).
+
+![Image of Sensor Detected](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/i2cDetect.PNG?raw=true)
 
 ### Week 7 October 16, 2018
 * Pseudo code assignment due.
