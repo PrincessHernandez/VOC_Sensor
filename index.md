@@ -7,6 +7,9 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
+### Week 8 October 23, 2018 - Milestone
+* I forgot my Raspberry Pi. 
+
 ### Week 7 October 16, 2018
 * Pseudo code assignment due.
 
