@@ -7,6 +7,10 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
+### Week 9 October 30, 2018
+* I designed my PCB through [Fritzing](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz).
+* I submitted my Gerber files to Prototype Lab.
+
 ### Week 8 October 23, 2018 - Milestone
 * I forgot my Raspberry Pi. 
 * Demonstrated wiring on breadboard (borrowed Rasp Pi from Parts Crib).
