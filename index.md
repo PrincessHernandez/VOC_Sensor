@@ -12,7 +12,7 @@ title: VOC Sensor Project Blog
     * Breadboard ![Image of Breadboard](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_bb.png?raw=true)
     * Schematic ![Image of Schematic](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_schem.png?raw=true)
     * PCB ![Image of PCB](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_pcb.png?raw=true)
-* I submitted my Gerber files to Prototype Lab.
+* I submitted my [Gerber files](https://github.com/PrincessHernandez/VOC_Sensor/tree/master/documentation/Gerber/VOC%20CCS811) to Prototype Lab.
 
 ### Week 8 October 23, 2018 - Milestone
 * I forgot my Raspberry Pi. 
