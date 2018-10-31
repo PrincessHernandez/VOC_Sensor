@@ -13,6 +13,7 @@ title: VOC Sensor Project Blog
     * Schematic ![Image of Schematic](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_schem.png?raw=true)
     * PCB ![Image of PCB](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_pcb.png?raw=true)
 * I submitted my [Gerber files](https://github.com/PrincessHernandez/VOC_Sensor/tree/master/documentation/Gerber/VOC%20CCS811) to Prototype Lab.
+* I updated my project's [budget]() to accommodate for the PCB. 
 
 ### Week 8 October 23, 2018 - Milestone
 * I forgot my Raspberry Pi. 
