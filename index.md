@@ -9,6 +9,9 @@ title: VOC Sensor Project Blog
 
 ### Week 9 October 30, 2018
 * I designed my PCB through [Fritzing](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz).
+    * [Breadboard]
+    * [Schematic]
+    * [PCB]
 * I submitted my Gerber files to Prototype Lab.
 
 ### Week 8 October 23, 2018 - Milestone
