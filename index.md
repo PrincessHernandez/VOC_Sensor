@@ -9,14 +9,11 @@ title: VOC Sensor Project Blog
 
 ### Week 9 October 30, 2018
 * I designed my PCB through [Fritzing](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz).
-    * Breadboard 
-    
+    * Breadboard     
 ![Image of Breadboard](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_bb.png?raw=truewidth=25)
-    * Schematic 
-    
+    * Schematic     
 ![Image of Schematic](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_schem.png?raw=true)
-    * PCB 
-    
+    * PCB     
 ![Image of PCB](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_pcb.png?raw=true)
 * I submitted my [Gerber files](https://github.com/PrincessHernandez/VOC_Sensor/tree/master/documentation/Gerber/VOC%20CCS811) to Prototype Lab.
 * I updated my project's [budget](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/BudgetUpdated.xlsx) to accommodate for the PCB. 
