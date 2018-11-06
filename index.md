@@ -17,9 +17,11 @@ title: VOC Sensor Project Blog
     * Breadboard     
     
 ![Image of Breadboard](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_bb.png?raw=truewidth=25)
-    * Schematic     
+    
+    * Schematic
     
 ![Image of Schematic](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_schem.png?raw=true)
+    
     * PCB     
     
 ![Image of PCB](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_pcb.png?raw=true)
