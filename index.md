@@ -9,6 +9,7 @@ title: VOC Sensor Project Blog
 
 ### Week 10 November 6, 2018
 * I soldered my PCB on Nov 5. I am still waiting for the 7 pin header I ordered online.
+* PCB milestone is due today. I have yet to solder the 7 pin header.
 
 ### Week 9 October 30, 2018
 * I designed my PCB through [Fritzing](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz).
