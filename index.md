@@ -11,6 +11,7 @@ title: VOC Sensor Project Blog
 * PCB milestone is due today. I have yet to solder the 7 pin socket.
 * I am currently behind my [project schedule](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProjectSchedule.mpp).
 * I soldered my PCB on Nov 5. I am still waiting for the 7 pin socket I ordered online. I found out that Canada Post is on strike, so I will wait for my order to arrive by the end of this week. Otherwise I will buy the socket before Friday to finish soldering.
+* I got a 5 pin socket from the Prototype Lab and used it as an alternate socket for my sensor since I only need 5 pins from my sensor.
 
 ### Week 9 October 30, 2018
 * I designed my PCB through [Fritzing](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). The fritzing images are in the following:
