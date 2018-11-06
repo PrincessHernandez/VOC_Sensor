@@ -13,16 +13,17 @@ title: VOC Sensor Project Blog
 * I soldered my PCB on Nov 5. I am still waiting for the 7 pin socket I ordered online. I found out that Canada Post is on strike, so I will wait for my order to arrive by the end of this week. Otherwise I will buy the socket before Friday to finish soldering.
 
 ### Week 9 October 30, 2018
-* I designed my PCB through [Fritzing](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). The following images are the fritzing 
-    * Breadboard     
+* I designed my PCB through [Fritzing](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). The fritzing images are in the following:
+     
+      Breadboard     
     
 ![Image of Breadboard](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_bb.png?raw=truewidth=25)
-    
-   * Schematic
+     
+      Schematic
     
 ![Image of Schematic](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_schem.png?raw=true)
     
-   * PCB     
+      PCB     
     
 ![Image of PCB](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/VOC-CCS311-Princess_pcb.png?raw=true)
 * I submitted my [Gerber files](https://github.com/PrincessHernandez/VOC_Sensor/tree/master/documentation/Gerber/VOC%20CCS811) to Prototype Lab.
