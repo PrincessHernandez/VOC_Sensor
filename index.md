@@ -10,6 +10,7 @@ title: VOC Sensor Project Blog
 ### Week 11 November 13, 2018 - Milestone
 * PCB Power Up is due today. 
 * CCS811 is working as intended. I will be modifying the [code]() to get rid of temperatue/humidity compensation because I don't need it in my project. Additionaly, I will be adding some code in it to calculate other types of air compound levels. Apart from that, it detects levels of ECO2 and TVOC which are both mentioned in my [proposal](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProposalContentPrincessRev02.xlsx). The following images are samples of output detected from CCS811.
+
 ![Image of Output1](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/SampleOutput2.PNG?raw=true)
 ![Image of Output2](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/SampleOutput1.PNG?raw=true)
 * I also started designing the case with the help of the [template]() provided for us.
