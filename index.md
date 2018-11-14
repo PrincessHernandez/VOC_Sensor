@@ -7,6 +7,11 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
+### Week 11 November 13, 2018 - Milestone
+* PCB Power Up is due today. 
+* CCS811 is working as intended. I will be modifying the [code]() to get rid of temperatue/humidity compensation because I don't need it in my project. Additionaly, I will be adding some code in it to calculate other types of air compound levels. Apart from that, it detects levels of ECO2 and TVOC which are both mentioned in my [proposal]().
+* I also started designing the case with the help of the [template] provided for us.
+
 ### Week 10 November 6, 2018
 * PCB milestone is due today. I have yet to solder the 7 pin socket.
 * I am currently behind my [project schedule](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/ProjectSchedule.mpp).
