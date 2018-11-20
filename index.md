@@ -6,6 +6,10 @@ title: VOC Sensor Project Blog
 ---
 
 # CENG317 VOC Sensor Project
+* [Project enclosure]() is due today.
+* 
+
+### Week 12 November 20, 2018
 
 ### Week 11 November 13, 2018 - Milestone
 * PCB Power Up is due today. 
