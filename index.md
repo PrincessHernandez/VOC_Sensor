@@ -11,7 +11,7 @@ title: VOC Sensor Project Blog
 * Project enclosure is due today.
 * The [design](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Pi2Case.pdf) of the enclosure is inspired by the [template](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Template/Pi2CaseX6.pdf) created for reference purposes. I increased the height by 0.25" and I added a cutout of where the sensor would position at the top of the enclosure. I also added a cover for the cutout when the Pi is not in used.
 * The following pictures below is the final project enclosure:
-<img src="https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/Enclosure1.JPG?raw=true" width="200"><img src="https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/Enclosure2.JPG?raw=true" width="200">
+![Image of Enclosure1](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/Enclosure1.JPG?raw=true)
 
 ### Week 11 November 13, 2018 - Milestone
 * PCB Power Up is due today. 
