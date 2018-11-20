@@ -6,10 +6,10 @@ title: VOC Sensor Project Blog
 ---
 
 # CENG317 VOC Sensor Project
-* [Project enclosure]() is due today.
-* 
 
 ### Week 12 November 20, 2018
+* Project enclosure is due today.
+* The [design](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Pi2Case.pdf) of the enclosure is inspired by the [template](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Template/Pi2CaseX6.pdf) created for reference purposes. I increased the height by 0.25" and I added a cutout of where the sensor would position at the top of the enclosure. I also added a cover for the cutout when the Pi is not in used.
 
 ### Week 11 November 13, 2018 - Milestone
 * PCB Power Up is due today. 
@@ -17,7 +17,7 @@ title: VOC Sensor Project Blog
 
 ![Image of Output1](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/SampleOutput2.PNG?raw=true)
 ![Image of Output2](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/images/SampleOutput1.PNG?raw=true)
-* I also started designing the case with the help of the [template]() provided for us.
+* I also started designing the case with the help of the [template](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Template/Pi2CaseX6.pdf) provided for us.
 
 ### Week 10 November 6, 2018
 * PCB milestone is due today. I have yet to solder the 7 pin socket.
