@@ -12,6 +12,8 @@ title: VOC Sensor Project Blog
 * The [design](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Pi2Case.pdf) of the enclosure is inspired by the [template](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Template/Pi2CaseX6.pdf) created for reference purposes. I increased the height by 0.25" and I added a cutout of where the sensor would position at the top of the enclosure. I also added a cover for the cutout when the Pi is not in used.
 * The following pictures below is the final project enclosure:
 
+<img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Enclosure1.PNG" width="280"><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Enclosure2.PNG" width="280">
+
 ![Image of Enclosure1](https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Enclosure1.PNG)
 
 ![Image of Enclosure2](https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Enclosure2.PNG)
