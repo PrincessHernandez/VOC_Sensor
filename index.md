@@ -23,7 +23,7 @@ title: VOC Sensor Project Blog
 * I also started designing the case with the help of the [template](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Template/Pi2CaseX6.pdf) provided for us.
 
 #### Update
-* The code is modified by yours truly.
+* The code is now modified (Nov 26).
 
 ### Week 10 November 6, 2018
 * PCB milestone is due today. I have yet to solder the 7 pin socket.
