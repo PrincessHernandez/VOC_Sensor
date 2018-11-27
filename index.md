@@ -7,6 +7,9 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
+### Week 13 November 27, 2018
+* Today is my [presentation](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Presentation/VOC%20Sensor.pptx).
+
 ### Week 12 November 20, 2018
 * Project enclosure is due today.
 * The [design](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Pi2Case.pdf) of the enclosure is inspired by the [template](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Project%20Enclosure/Template/Pi2CaseX6.pdf) created for reference purposes. I increased the height by 0.25" and I added a cutout of where the sensor would position at the top of the enclosure. I also added a cover for the cutout when the Pi is not in used.
