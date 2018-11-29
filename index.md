@@ -9,6 +9,7 @@ title: VOC Sensor Project Blog
 
 ### Week 13 November 27, 2018
 * Today is my [presentation](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Presentation/VOC%20Sensor.pptx).
+* I started a rough copy of my build instructions.
 
 ### Week 12 November 20, 2018
 * Project enclosure is due today.
