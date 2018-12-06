@@ -32,12 +32,20 @@ The following links below are sources of where you can purchase the items:
 1. Make sure to break the 7 pins from the Break Away Header. Then start by soldering the sensor to the pins of the header. 
 <br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Soldering%20Sensor%20to%20Header.jpg" width="350">
 
-2. You can design your own PCB using [Fritzing](http://fritzing.org/download/) for free or [my version](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). You can refer to the image of the schematic and PCB designs below.
+2. You can design your own PCB using [Fritzing software](http://fritzing.org/download/) for free or my version of the [fritzing file](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). You can refer to the image of the schematic and PCB designs below.
 <br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_schem.png" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_pcb.png" width="350">
+Here are the following pins that you should know for this project:
+##### Power Pins
+* Vin - power pin
+* GND - common ground for power and logic
+##### Logic Pins
+* SCL - i2c clock pin
+* SDA - i2c data pin
+* WAKE\* - wakeup pin for the sensor
+\*Please make sure that the WAKE pin is connected to GND. Otherwise, you will not get the correct address.
 
-3. Once you've obtained your PCB board solder the following:
+3. Once you have obtained your PCB board solder the following:
 * Vias\*
 * 40-pin socket 
 * 7-pin socket
 <br/>\*Note: You must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
-
