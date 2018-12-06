@@ -35,17 +35,17 @@ The following links below are sources of where you can purchase the items:
 2. You can design your own PCB using [Fritzing software](http://fritzing.org/download/) for free or my version of the [fritzing file](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). You can refer to the image of the schematic and PCB designs below.
 <br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_schem.png" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_pcb.png" width="350">
 <br/>Here are the following pins that you should know for this project:
-##### Power Pins
+<br/>**Power Pins**
 * Vin - power pin
-\*Since the sensor uses 3.3V, give it the same power as the logic level of you Raspberry Pi.
+	* Since the sensor uses 3.3V, give it the same power as the logic level of you Raspberry Pi.
 * GND - common ground for power and logic
-##### Logic Pins
+<br/>**Logic Pins**
 * SCL - i2c clock pin
-<br/>\*Connect to your Raspberry Pi i2c clock line.
+	* Connect to your Raspberry Pi i2c clock line.
 * SDA - i2c data pin
-<br/>\*Connect to your Raspberry Pi i2c data line.
+	* Connect to your Raspberry Pi i2c data line.
 * WAKE\* - wakeup pin for the sensor
-<br/>\*Please make sure that the WAKE pin is connected to GND. Otherwise, you will not get the correct address.
+	* Please make sure that the WAKE pin is connected to GND. Otherwise, you will not get the correct address.
 
 3. Once you have obtained your PCB board solder the following:
 * Vias\*
