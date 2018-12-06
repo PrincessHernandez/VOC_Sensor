@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Material Requirements](#material-requirements)
-3. [Mechanical Assembly](#mechanical-assembly)
+3. [Mechanical Assembly](#mechanical-assembly-and-soldering)
 
 ### Introduction
 Volatile Organic Compounds (VOC) can be found in everyday products such as cleaning supplies, paint, cosmetic products, fuel, and many more. They have the potential to contaminate our health, so monitoring air quality is very crucial for our everyday means. The CCS811 Air Quality Sensor can sense VOC and CO2, two parameters that are important for monitoring air quality.
@@ -28,24 +28,30 @@ The following links below are sources of where you can purchase the items:
 * [Safety Glasses](https://www.amazon.ca/3M-Virtua-Glasses-Polycarbonate-Anti-Scratch/dp/B00AEFBLW2/ref=sr_1_6?ie=UTF8&qid=1544063725&sr=8-6&keywords=safety+glasses) - CAD$9.27
 * (Optional) [Anti-Static Wrist Strap](https://www.amazon.ca/KingWin-ATS-W24-Anti-Static-Wrist-Strap/dp/B0042TLA90/ref=sr_1_6?ie=UTF8&qid=1544063571&sr=8-6&keywords=anti+static+wrist+strap) - CAD$2.50
 
-### Mechanical Assembly
+### Mechanical Assembly and Soldering
 1. Make sure to break the 7 pins from the Break Away Header. Then start by soldering the sensor to the pins of the header. 
 <br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Soldering%20Sensor%20to%20Header.jpg" width="350">
 
 2. You can design your own PCB using [Fritzing software](http://fritzing.org/download/) for free or my version of the [fritzing file](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). You can refer to the image of the schematic and PCB designs below.
 <br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_schem.png" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_pcb.png" width="350">
-Here are the following pins that you should know for this project:
+<br/>Here are the following pins that you should know for this project:
 ##### Power Pins
 * Vin - power pin
+\*Since the sensor uses 3.3V, give it the same power as the logic level of you Raspberry Pi.
 * GND - common ground for power and logic
 ##### Logic Pins
 * SCL - i2c clock pin
+<br/>\*Connect to your Raspberry Pi i2c clock line.
 * SDA - i2c data pin
+<br/>\*Connect to your Raspberry Pi i2c data line.
 * WAKE\* - wakeup pin for the sensor
-\*Please make sure that the WAKE pin is connected to GND. Otherwise, you will not get the correct address.
+<br/>\*Please make sure that the WAKE pin is connected to GND. Otherwise, you will not get the correct address.
 
 3. Once you have obtained your PCB board solder the following:
 * Vias\*
 * 40-pin socket 
 * 7-pin socket
 <br/>\*Note: You must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
+
+Once you have finished soldering, your board should look like this along with the sensor:
+<br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/SolderedPCB.PNG" width="350">
