@@ -7,7 +7,7 @@
 
 ### Introduction
 Volatile Organic Compounds (VOC) can be found in everyday products such as cleaning supplies, paint, cosmetic products, fuel, and many more. They have the potential to contaminate our health, so monitoring air quality is very crucial for our everyday means. The CCS811 Air Quality Sensor can sense VOC and CO2, two parameters that are important for monitoring air quality.
-<br/><img align="center" src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Enclosure1.JPG" width="350">
+<br/><p align="center"><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Enclosure1.JPG" width="350"></p>
 
 The following instructions are provided to assist you in developing a VOC sensor that can measure TVOC and eCO2 levels in the air.
 
