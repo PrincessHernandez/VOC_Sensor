@@ -41,5 +41,6 @@ Check out my design of the [PCB](https://github.com/PrincessHernandez/VOC_Sensor
 * Vias\*
 * 40-pin socket 
 * 7-pin socket
+
 \*Note: You must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
 
