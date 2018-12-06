@@ -24,24 +24,21 @@ The following links below are sources of where you can purchase the items:
 * [40 Pin GPIO Connector Header](https://www.buyapi.ca/product/40-pin-gpio-connector-header/) - CAD$1.95
 * [Custom PCB](https://www.pcbway.com/?adwgc=667&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-34746800&loc_physical_ms=9000922&matchtype=p&network=g&device=c&devicemodel=&creative=189085816950&keyword=pcb%20manufacturing&placement=&target=&adposition=1t1&gclid=Cj0KCQiAi57gBRDqARIsABhDSMpsNka-o0C5SQcvMYkiUXbYsOpfyNvY4I17pEzjXb1DlC4_ia_7dHkaAqKGEALw_wcB) - CAD$88.88 
 <br/>Depending on the design of your PCB prices may vary. 
-<br/>You can design your own PCB using [Bay Area Circuits](https://bayareacircuits.com/pcb-design-layout-software-for-custom-pcb/) for free. 
+<br/>You can design your own PCB using [Fritzing](http://fritzing.org/download/) for free. 
 <br/>Check out my design of the [PCB](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz).
 * [Safety Glasses](https://www.amazon.ca/3M-Virtua-Glasses-Polycarbonate-Anti-Scratch/dp/B00AEFBLW2/ref=sr_1_6?ie=UTF8&qid=1544063725&sr=8-6&keywords=safety+glasses) - CAD$9.27
 * (Optional) [Anti-Static Wrist Strap](https://www.amazon.ca/KingWin-ATS-W24-Anti-Static-Wrist-Strap/dp/B0042TLA90/ref=sr_1_6?ie=UTF8&qid=1544063571&sr=8-6&keywords=anti+static+wrist+strap) - CAD$2.50
 
 ### Mechanical Assembly
 1. Make sure to break the 7 pins from the Break Away Header. Then start by soldering the sensor to the pins of the header. 
+<br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Soldering%20Sensor%20to%20Header.jpg" width="350">
 
-<img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Soldering%20Sensor%20to%20Header.jpg" width="350">
-
-2. You can design your own PCB using [Bay Area Circuits](https://bayareacircuits.com/pcb-design-layout-software-for-custom-pcb/) for free or [my version](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). You can refer to the image of the schematic and PCB designs below.
-
-<img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_schem.png" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_pcb.png" width="350">
+2. You can design your own PCB using [Fritzing](http://fritzing.org/download/) for free or [my version](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz). You can refer to the image of the schematic and PCB designs below.
+<br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_schem.png" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_pcb.png" width="350">
 
 3. Once you've obtained your PCB board solder the following:
 * Vias\*
 * 40-pin socket 
 * 7-pin socket
-
-\*Note: You must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
+<br/>\*Note: You must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
 
