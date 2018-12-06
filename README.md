@@ -22,7 +22,8 @@ The following links below are sources of where you can purchase the items:
 * [Break Away Headers - Straight](https://www.sparkfun.com/products/116) - CAD$2.01
 * [7 Pin Receptacle Socket](https://www.creatroninc.com/product/7-pin-receptacle-socket/) - CAD$0.45
 * [40 Pin GPIO Connector Header](https://www.buyapi.ca/product/40-pin-gpio-connector-header/) - CAD$1.95
-* [Custom PCB](https://www.pcbway.com/?adwgc=667&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-34746800&loc_physical_ms=9000922&matchtype=p&network=g&device=c&devicemodel=&creative=189085816950&keyword=pcb%20manufacturing&placement=&target=&adposition=1t1&gclid=Cj0KCQiAi57gBRDqARIsABhDSMpsNka-o0C5SQcvMYkiUXbYsOpfyNvY4I17pEzjXb1DlC4_ia_7dHkaAqKGEALw_wcB) - CAD$88.88 Depending on the design of your PCB prices may vary. 
+* [Custom PCB](https://www.pcbway.com/?adwgc=667&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-34746800&loc_physical_ms=9000922&matchtype=p&network=g&device=c&devicemodel=&creative=189085816950&keyword=pcb%20manufacturing&placement=&target=&adposition=1t1&gclid=Cj0KCQiAi57gBRDqARIsABhDSMpsNka-o0C5SQcvMYkiUXbYsOpfyNvY4I17pEzjXb1DlC4_ia_7dHkaAqKGEALw_wcB) - CAD$88.88 
+Depending on the design of your PCB prices may vary. 
 You can design your own PCB using [Bay Area Circuits](https://bayareacircuits.com/pcb-design-layout-software-for-custom-pcb/) for free. 
 Check out my design of the [PCB](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Fritzing%20CCS811/VOC-CCS311-Princess.fzz).
 * [Safety Glasses](https://www.amazon.ca/3M-Virtua-Glasses-Polycarbonate-Anti-Scratch/dp/B00AEFBLW2/ref=sr_1_6?ie=UTF8&qid=1544063725&sr=8-6&keywords=safety+glasses) - CAD$9.27
