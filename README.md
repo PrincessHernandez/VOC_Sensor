@@ -38,8 +38,8 @@ Check out my design of the [PCB](https://github.com/PrincessHernandez/VOC_Sensor
 <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_schem.png" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/VOC-CCS311-Princess_pcb.png" width="350">
 
 3. Once you've obtained your PCB board solder the following:
-* Vias*
+* Vias\*
 * 40-pin socket 
 * 7-pin socket
-*Note: To solder the vias, you must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
+\*Note: You must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
 
