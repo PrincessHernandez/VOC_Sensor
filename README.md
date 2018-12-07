@@ -13,7 +13,7 @@
 Volatile Organic Compounds (VOC) can be found in everyday products such as cleaning supplies, paint, cosmetic products, fuel, and many more. They have the potential to contaminate our health, so monitoring air quality is very crucial for our everyday means. The CCS811 Air Quality Sensor can sense VOC and CO2, two parameters that are important for monitoring air quality. The following instructions are provided to assist you in developing a VOC sensor that can measure TVOC and eCO2 levels in the air.
 <br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/Enclosure1.JPG" width="350"></p>
 
-I recommend that before attempting this build that you have accomplished watching videos on [soldering](https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz). 
+> I recommend that before attempting this build that you have accomplished watching videos on [soldering](https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz). 
 
 ### Material Requirements
 The project's total budget will cost you approx. CAD$232.12 excluding tax and shipping. The prices can be converted depending on where you are from. If you would like to see my personal budget click [here](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/BudgetUpdated.xlsx). Keep in mind that my budget costs lower because I own some of the parts (or had access to in Prototype Lab) from the list.
