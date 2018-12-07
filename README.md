@@ -58,7 +58,7 @@ The following links below are sources of where you can purchase the items:
 * Vias\*
 * 40-pin socket 
 * 7-pin socket
-<br/>\*Note: You must thread a single strand of wire through the holes, solder it, and then cutting the remaining wires off.
+<br/>\*Note: You must thread a single strand of wire through the holes, solder it, and then cut the remaining wires off.
 
 Once you have finished soldering, your board should look like this along with the sensor:
 <br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/SolderedPCB.PNG" width="350">
