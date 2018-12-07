@@ -77,7 +77,7 @@ To test your sensor download the python code [here](https://github.com/PrincessH
 sudo python ccs811.py
 ```
 `Invalid eCO2 value` detects the CO2 value of greater than what the range should be. You can refer to the sample outputs below. Your output differs depending on your surrounding environment.
-<img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/SampleOutput3.PNG" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/SampleOutput4.png" width="350"> 
+<br/><img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/SampleOutput3.PNG" width="350"> <img src="https://raw.githubusercontent.com/PrincessHernandez/VOC_Sensor/master/images/SampleOutput4.png" width="350"> 
 > **Burn-in Time** - The CCS811 data sheet recommends a burn-in of 48 hours and run-in of 20 minutes. It is important for your sensor to warm up for 20 minutes for a valid output data.
 
 ### Explore with your Sensor
