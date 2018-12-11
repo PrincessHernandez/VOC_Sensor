@@ -7,6 +7,9 @@ title: VOC Sensor Project Blog
 
 # CENG317 VOC Sensor Project
 
+### Week 15 December 11, 2018
+* The build instructions is due today. I have included all the requirements and instructions for the project. Click [here](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/README.md) for the instructions.
+
 ### Week 13 November 27, 2018
 * Today is my [presentation](https://github.com/PrincessHernandez/VOC_Sensor/blob/master/documentation/Presentation/VOC%20Sensor.pptx).
 * I started a rough copy of my build instructions.
